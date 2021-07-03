@@ -1,2 +1,2 @@
-# Memory-Markov-Blankets
- 
+# Memory and Markov Blankets
+ This demo reproduces the figures presented in the paper 'Memory and Markov blankets' (Parr, Da Costa, Heins, Ramstead, and Friston), written for the Entropy (MDPI) special issue 'Entropies, Information Geometry and  Fluctuations in Non-equilibrium Systems.' The central idea of these demonstrations is that, on taking a system whose steady state density factorises according to the conditional dependency structure of a Markov blanket, imposition of new initial conditions on the blanket states results in a transient conditional dependency across the blanket. This means it is possible for internal states to maintain some memory of external states, even in the absence of informative blanket states.
